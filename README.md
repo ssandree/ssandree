@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세용 산드리입니다 💐</h1>
-<h3 align="center">열정만땅 Full-Stack Developer!!</h3>
+<h2 align="center">열정만땅 Full-Stack Developer!!</h2>
 <br>
 
 
@@ -10,11 +10,13 @@
 <br>
 
 
-<h3 align="left">📜 자격증 </h3>  
+<h2 align="left">📜 자격증 </h2>  
 - 데이터 분석 준전문가 (ADsP) – 한국데이터산업진흥원 (2024.09.06)    
 
 - SQL 개발자 (SQLD) – 한국데이터산업진흥원 (2024.09.20)    
 
+## 👨‍💻 BOJ Stats
+![mazassumnida](http://mazassumnida.wtf/api/generate_badge?boj=ssandree)
 
   <br>
 ---
