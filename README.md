@@ -15,8 +15,10 @@
 
 - SQL 개발자 (SQLD) – 한국데이터산업진흥원 (2024.09.20)    
 
+<br>
+
 ## 👨‍💻 BOJ Stats
-![mazassumnida](http://mazassumnida.wtf/api/mini/generate_badge?boj=sandradra)
+![mazassumnida](http://mazassumnida.wtf/api/generate_badge?boj=sandradra)
 
   <br>
 ---
